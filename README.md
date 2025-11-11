@@ -25,6 +25,12 @@ This project demonstrates the same "Financial Tracker" application logic as my R
 
 ![Server API Screenshot](https://github.com/user-attachments/assets/b6104503-3dd7-4400-8f38-f39213fa069b)
 
+## 💾 Database Schema (ERD)
+
+Here is the Entity Relationship Diagram (ERD) for the database, showing the table structures and relationships.
+
+![Database ERD for Financial Tracker](https://github.com/user-attachments/assets/0f849600-8bea-4298-a7ec-f1ad38927b18)
+
 ## 🚀 Local Setup Guide
 
 To run this project, you need **Visual Studio 2022** with the following two workloads installed:
