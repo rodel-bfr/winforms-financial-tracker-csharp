@@ -15,13 +15,15 @@ This project demonstrates the same "Financial Tracker" application logic as my R
 
 ## 📸 Application Preview
 
-(Here you will add the screenshots you took. You already know how to host them!)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/71741d61-e507-497f-9b06-7409e1330af9)
 
-![Dashboard Screenshot](YOUR_IMAGE_URL_HERE)
-![Categories Screenshot](YOUR_IMAGE_URL_HERE)
-![Budget Rules Screenshot](YOUR_IMAGE_URL_HERE)
-![Add Transaction Screenshot](YOUR_IMAGE_URL_HERE)
-![Server API Screenshot](YOUR_IMAGE_URL_HERE)
+![Categories Screenshot](https://github.com/user-attachments/assets/429fc6f4-b62f-4049-8fc3-e86cf4640347)
+
+![Budget Rules Screenshot](https://github.com/user-attachments/assets/70255aad-bf6a-4312-bfbf-808eeb0f6191)
+
+![Add Transaction Screenshot](https://github.com/user-attachments/assets/166afe97-1e37-4757-9b89-02820d4d371d)
+
+![Server API Screenshot](https://github.com/user-attachments/assets/b6104503-3dd7-4400-8f38-f39213fa069b)
 
 ## 🚀 Local Setup Guide
 
