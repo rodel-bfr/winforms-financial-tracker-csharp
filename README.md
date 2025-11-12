@@ -15,21 +15,21 @@ This project demonstrates the same "Financial Tracker" application logic as my R
 
 ## 📸 Application Preview
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/71741d61-e507-497f-9b06-7409e1330af9)
+![Dashboard](https://github.com/user-attachments/assets/71741d61-e507-497f-9b06-7409e1330af9)
 
-![Categories Screenshot](https://github.com/user-attachments/assets/429fc6f4-b62f-4049-8fc3-e86cf4640347)
+![Categories](https://github.com/user-attachments/assets/429fc6f4-b62f-4049-8fc3-e86cf4640347)
 
-![Budget Rules Screenshot](https://github.com/user-attachments/assets/70255aad-bf6a-4312-bfbf-808eeb0f6191)
+![Budget Rules](https://github.com/user-attachments/assets/70255aad-bf6a-4312-bfbf-808eeb0f6191)
 
-![Add Transaction Screenshot](https://github.com/user-attachments/assets/166afe97-1e37-4757-9b89-02820d4d371d)
+![Add Transaction](https://github.com/user-attachments/assets/166afe97-1e37-4757-9b89-02820d4d371d)
 
-![Server API Screenshot](https://github.com/user-attachments/assets/b6104503-3dd7-4400-8f38-f39213fa069b)
+![Server API](https://github.com/user-attachments/assets/b6104503-3dd7-4400-8f38-f39213fa069b)
 
 ## 💾 Database Schema (ERD)
 
 Here is the Entity Relationship Diagram (ERD) for the database, showing the table structures and relationships.
 
-![Database ERD for Financial Tracker](https://github.com/user-attachments/assets/0f849600-8bea-4298-a7ec-f1ad38927b18)
+![Database ERD](https://github.com/user-attachments/assets/0f849600-8bea-4298-a7ec-f1ad38927b18)
 
 ## 🚀 Local Setup Guide
 
