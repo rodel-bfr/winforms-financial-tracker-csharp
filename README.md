@@ -4,6 +4,17 @@ This is a full-stack personal finance management application built entirely in t
 
 This project demonstrates the same "Financial Tracker" application logic as my React/PHP project, but re-implemented in a classic Microsoft technology stack.
 
+---
+
+## ✨ Key Features
+
+* **Dynamic Budgeting:** Supports custom budget rules, such as the **50/30/20 rule**, helping users balance **Needs**, **Wants**, and **Savings**.
+* **Customizable Categories:** Users can define and edit their own spending categories and allocation types.
+* **Visual Analytics:** Intuitive graphs (Pie and Progress Bar charts) provide a visual breakdown of spending habits and budget adherence.
+* **Transaction Management:** A filterable table for managing all past and present transactions, including edit and delete functionality.
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Client:** C# Windows Forms (.NET Framework)
@@ -12,6 +23,8 @@ This project demonstrates the same "Financial Tracker" application logic as my R
 * **IDE:** Visual Studio 2022
 * **Data:** LINQ, ADO.NET
 * **Design:** `async/await` for a non-blocking UI, custom `CellPainting` (GDI+) for data grids.
+
+---
 
 ## 📸 Application Preview
 
@@ -25,11 +38,15 @@ This project demonstrates the same "Financial Tracker" application logic as my R
 
 ![Server API](https://github.com/user-attachments/assets/b6104503-3dd7-4400-8f38-f39213fa069b)
 
+---
+
 ## 💾 Database Schema (ERD)
 
 Here is the Entity Relationship Diagram (ERD) for the database, showing the table structures and relationships.
 
 ![Database ERD](https://github.com/user-attachments/assets/0f849600-8bea-4298-a7ec-f1ad38927b18)
+
+---
 
 ## 🚀 Local Setup Guide
 
