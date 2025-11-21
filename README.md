@@ -50,19 +50,28 @@ Here is the Entity Relationship Diagram (ERD) for the database, showing the tabl
 
 ## 🚀 Local Setup Guide
 
-To run this project, you need **Visual Studio 2022** with the following two workloads installed:
-* **.NET desktop development** (for the client)
-* **ASP.NET and web development** (for the server)
+### 📋 Prerequisites
+* **[Visual Studio 2022](https://visualstudio.microsoft.com/)** (Community Edition is fine).
+* **Required Workloads** (Install via Visual Studio Installer):
+    * *.NET desktop development*
+    * *ASP.NET and web development*
+* **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)** – For database management.
+* **SQL Server LocalDB** (Usually included with Visual Studio).
 
-You also need **SQL Server Management Studio (SSMS)** to set up the database.
+### 🔧 Installation
 
-### 1. Database Setup
+### 1.  **Clone the repository:**
+```bash
+git clone https://github.com/rodel-bfr/winforms-financial-tracker-csharp.git
+```
+
+### 2. Database Setup
 
 1.  Open **SSMS** and connect to your LocalDB server. The server name is: `(LocalDB)\MSSQLLocalDB`
 2.  Open the `sql_files/database.sql` file from this project.
 3.  Execute the entire SQL script. This will create the `Database1` database, all tables, and insert all the demo data.
 
-### 2. Server Setup (Run First)
+### 3. Server Setup (Run First)
 
 1.  Open the `server_app/server_app.sln` solution file in Visual Studio.
 2.  **CRITICAL:** In the Solution Explorer, open the `web.config` file.
@@ -72,7 +81,7 @@ You also need **SQL Server Management Studio (SSMS)** to set up the database.
 5.  **Note the URL in your browser** (e.g., `https://localhost:44349/`).
 6.  **Leave this server running.**
 
-### 3. Client Setup (Run Second)
+### 4. Client Setup (Run Second)
 
 1.  Open a **second window** of Visual Studio.
 2.  Open the `clinet_app/clinet_app.sln` solution file.
