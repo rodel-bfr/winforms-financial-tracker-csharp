@@ -1,4 +1,4 @@
-# 💰 C# Financial Tracker (Windows Forms)
+# C# Financial Tracker (Windows Forms)
 
 This is a full-stack personal finance management application built entirely in the **C# / .NET Framework**. It features a **Windows Forms (WinForms)** desktop client that consumes a **C# ASP.NET (ASMX) Web Service** for all backend logic and database operations.
 
@@ -6,7 +6,7 @@ This project demonstrates the same "Financial Tracker" application logic as my R
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Dynamic Budgeting:** Supports custom budget rules, such as the **50/30/20 rule**, helping users balance **Needs**, **Wants**, and **Savings**.
 * **Customizable Categories:** Users can define and edit their own spending categories and allocation types.
@@ -15,7 +15,7 @@ This project demonstrates the same "Financial Tracker" application logic as my R
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Client:** C# Windows Forms (.NET Framework)
 * **Backend:** C# ASP.NET Web Service (ASMX)
@@ -26,7 +26,7 @@ This project demonstrates the same "Financial Tracker" application logic as my R
 
 ---
 
-## 📸 Application Preview
+## Application Preview
 
 ![Dashboard](https://github.com/user-attachments/assets/71741d61-e507-497f-9b06-7409e1330af9)
 
@@ -48,9 +48,9 @@ Here is the Entity Relationship Diagram (ERD) for the database, showing the tabl
 
 ---
 
-## 🚀 Local Setup Guide
+## Local Setup Guide
 
-### 📋 Prerequisites
+### Prerequisites
 * **[Visual Studio 2022](https://visualstudio.microsoft.com/)** (Community Edition is fine).
 * **Required Workloads** (Install via Visual Studio Installer):
     * *.NET desktop development*
@@ -58,7 +58,7 @@ Here is the Entity Relationship Diagram (ERD) for the database, showing the tabl
 * **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)** – For database management.
 * **SQL Server LocalDB** (Usually included with Visual Studio).
 
-### 🔧 Installation
+### Installation
 
 ### 1.  **Clone the repository:**
 ```bash
